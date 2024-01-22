@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Smart Survey Filler",
+  "description": "This extension learns your inputs from surveys and forms as you surf. Greatly speeding up your inputs",
+  "version": "1.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "hello_extensions.png"
+  }
+}
